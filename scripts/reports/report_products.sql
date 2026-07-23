@@ -101,4 +101,4 @@ SELECT
 		WHEN sales_span_months = 0 THEN total_sales
 		ELSE total_sales/sales_span_months
 	END avg_monthly_revenue
-FROM product_aggregation;
+FROM product_aggregation
