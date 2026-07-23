@@ -22,7 +22,7 @@ This project builds on **[sql-data-warehouse-practice-project](https://github.co
 
 ```mermaid
 flowchart LR
-    A["🏗️ sql-data-warehouse<br/>-practice-project"] -->|"gold.dim_customers<br/>gold.dim_products<br/>gold.fact_sales"| B["📊 sql-data-analytics<br/>-project (this repo)"]
+    A["🏗️ sql-data-warehouse<br/>-practice-project"] -->|"gold.dim_customers<br/>gold.dim_products<br/>gold.fact_sales"| B["📊 sql-data-warehouse<br/>-analysis (this repo)"]
 
     style A fill:#2b2b2b,stroke:#888,color:#fff
     style B fill:#a8892c,stroke:#ffd700,color:#fff
